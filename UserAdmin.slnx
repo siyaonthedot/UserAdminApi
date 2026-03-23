@@ -1,6 +1,11 @@
 <Solution>
-  <Project Path="src/UserAdmin.Api/UserAdmin.Api.csproj" />
-  <Project Path="src/UserAdmin.Application/UserAdmin.Application.csproj" />
-  <Project Path="src/UserAdmin.Domain/UserAdmin.Domain.csproj" />
-  <Project Path="src/UserAdmin.Infrustructure/UserAdmin.Infrustructure.csproj" />
+  <Folder Name="/src/">
+    <Project Path="src/UserAdmin.Api/UserAdmin.Api.csproj" />
+    <Project Path="src/UserAdmin.Application/UserAdmin.Application.csproj" />
+    <Project Path="src/UserAdmin.Domain/UserAdmin.Domain.csproj" />
+    <Project Path="src/UserAdmin.Infrustructure/UserAdmin.Infrustructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="../UnitTests/UnitTests.csproj" Id="0eb157ac-0155-48a9-bc28-00d64c89cf58" />
+  </Folder>
 </Solution>
