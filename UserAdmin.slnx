@@ -1,6 +1,6 @@
 <Solution>
-  <Project Path="../UserAdmin.Application/UserAdmin.Application.csproj" Id="4f8be69f-afa0-437f-a395-982935eba443" />
-  <Project Path="../UserAdmin.Domain/UserAdmin.Domain.csproj" Id="68a7c106-5e75-4b33-a35b-428057db08ca" />
-  <Project Path="../UserAdmin.Infrustructure/UserAdmin.Infrustructure.csproj" Id="49c61162-27b7-4427-b244-daa9570a8fe1" />
-  <Project Path="UserAdmin.Api.csproj" />
+  <Project Path="src/UserAdmin.Api/UserAdmin.Api.csproj" />
+  <Project Path="src/UserAdmin.Application/UserAdmin.Application.csproj" />
+  <Project Path="src/UserAdmin.Domain/UserAdmin.Domain.csproj" />
+  <Project Path="src/UserAdmin.Infrustructure/UserAdmin.Infrustructure.csproj" />
 </Solution>
